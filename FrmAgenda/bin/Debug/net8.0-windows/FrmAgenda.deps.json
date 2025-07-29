@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FrmAgenda/1.0.0": {
+        "runtime": {
+          "FrmAgenda.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FrmAgenda/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

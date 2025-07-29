@@ -1,0 +1,17 @@
+C:\Users\López\source\repos\FrmAgenda\bin\Debug\net8.0-windows\FrmAgenda.exe
+C:\Users\López\source\repos\FrmAgenda\bin\Debug\net8.0-windows\FrmAgenda.deps.json
+C:\Users\López\source\repos\FrmAgenda\bin\Debug\net8.0-windows\FrmAgenda.runtimeconfig.json
+C:\Users\López\source\repos\FrmAgenda\bin\Debug\net8.0-windows\FrmAgenda.dll
+C:\Users\López\source\repos\FrmAgenda\bin\Debug\net8.0-windows\FrmAgenda.pdb
+C:\Users\López\source\repos\FrmAgenda\obj\Debug\net8.0-windows\FrmAgenda.Frm_Agenda.resources
+C:\Users\López\source\repos\FrmAgenda\obj\Debug\net8.0-windows\FrmAgenda.csproj.GenerateResource.cache
+C:\Users\López\source\repos\FrmAgenda\obj\Debug\net8.0-windows\FrmAgenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\López\source\repos\FrmAgenda\obj\Debug\net8.0-windows\FrmAgenda.AssemblyInfoInputs.cache
+C:\Users\López\source\repos\FrmAgenda\obj\Debug\net8.0-windows\FrmAgenda.AssemblyInfo.cs
+C:\Users\López\source\repos\FrmAgenda\obj\Debug\net8.0-windows\FrmAgenda.csproj.CoreCompileInputs.cache
+C:\Users\López\source\repos\FrmAgenda\obj\Debug\net8.0-windows\FrmAgenda.dll
+C:\Users\López\source\repos\FrmAgenda\obj\Debug\net8.0-windows\refint\FrmAgenda.dll
+C:\Users\López\source\repos\FrmAgenda\obj\Debug\net8.0-windows\FrmAgenda.pdb
+C:\Users\López\source\repos\FrmAgenda\obj\Debug\net8.0-windows\FrmAgenda.genruntimeconfig.cache
+C:\Users\López\source\repos\FrmAgenda\obj\Debug\net8.0-windows\ref\FrmAgenda.dll
+C:\Users\López\source\repos\FrmAgenda\obj\Debug\net8.0-windows\FrmAgenda.Properties.Resources.resources
